@@ -121,11 +121,14 @@ h1{
 }
 #Auswahlbild_Luft{
   width: 45%;
-
 }
 #Auswahlbild_Wasser{
   width: 45%;
   margin-left: 5%;
+}
+
+#Auswahlbild_Hühnerklappe{
+  width: 45%;
 }
 
 .wasser_temperatur{
